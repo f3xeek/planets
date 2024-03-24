@@ -84,4 +84,4 @@ def main(file) ->None:
         pygame.display.update()
 
 if __name__=="__main__":
-    main("E:/programowanie/pajton/planetyx3/data22_03_24.txt")
+    main("data22_03_24.txt")
